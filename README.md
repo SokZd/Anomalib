@@ -1,1 +1,2 @@
 # Anomalib
+Anomalib.jpg
